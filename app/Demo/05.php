@@ -132,6 +132,5 @@ class sigle {
     // 封锁clone
     final protected function __clone()
     {
-        // TODO: Implement __clone() method.
     }
 }
